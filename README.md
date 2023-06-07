@@ -1,3 +1,10 @@
-# projects-File
-projects File 2023
- Exploratory Data Analysis Project
+# LIBRARIES USED-
+# Numpy
+# Pandas
+# Matplotib
+# Seaborn
+# ReGex
+# Requests
+# BeautifulSoup
+
+# SCRAPPING DATA FROM FILPKART WEBSITE AND BASED ON DATA  PERFORMED DATA ANALYSIS OPERATION 
